@@ -1,0 +1,32 @@
+﻿
+@model IEnumerable<proyectoFi.Models.DetalleFactura>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+    <body>
+        <a asp-action="Create">Nueva factura</a>
+         <h1>FACTURA</h1>
+
+        <table class="table table-bordered">
+            <tr>
+                <td scope="col">CODIGO PRODUCTO</td>
+                <td scope="col">CODIGO FACTURA</td>
+                <td scope="col">CANTIDAD</td>
+                <td scope="col">PRECIO VENTA</td>
+               
+            </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td scope="col">@item.CodProducto</td>
+               <td scope="col">@item.CodFactura</td>
+                    <td scope="col">@item.Cantidad</td>
+                    <td scope="col">@item.PrecioVenta</td>
+            </tr>
+        }
+        </table>
+</body>
+</html>

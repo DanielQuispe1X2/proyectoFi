@@ -1,0 +1,38 @@
+﻿@model proyectoFi.Models.Vendedor
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+    <body>
+         <form asp-controller="Vendedor" asp-action="EditVendedor" method="post">
+             <div class="form-group">
+                <label for="formGroupExampleInput">Codigo:</label>
+                <input asp-for="CodVendedor" value="@ViewData["cod"]" class="form-control" id="formGroupExampleInput" placeholder="Codigo vendedor">
+                <span asp-validation-for="CodVendedor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="formGroupExampleInput2">Nombre</label>
+                <input asp-for="NomVendedor" value="@ViewData["nom"]" class="form-control" id="formGroupExampleInput2" placeholder="Nombre del vendedor">
+                <span asp-validation-for="NomVendedor" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                <label for="formGroupExampleInput2">Apellido</label>
+                <input asp-for="ApeVendedor" value="@ViewData["ape"]" class="form-control" id="formGroupExampleInput2" placeholder="Apellido del vendedor">
+                <span asp-validation-for="ApeVendedor" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                <label for="formGroupExampleInput2">Telefono</label>
+                <input asp-for="TelVendedor" value="@ViewData["tele"]"  class="form-control" id="formGroupExampleInput2" placeholder="Telefono">
+                <span asp-validation-for="TelVendedor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary" value="btn" name="modificar" data-toggle="modal" data-target="#exampleModal">MODIFICAR</button>
+            </div>
+
+        </form>
+    </body>
+</html>

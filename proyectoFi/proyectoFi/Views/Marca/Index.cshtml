@@ -1,0 +1,27 @@
+﻿
+@model IEnumerable<proyectoFi.Models.Marca>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+    <body>
+        <a asp-action="Create">Nueva Marca</a>
+        <h1>MARCAS</h1>
+
+        <table class="table table-bordered">
+            <tr>
+                <td scope="col">Nombre</td>
+                <td scope="col">Id</td>
+            </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td scope="col">@item.NomMarca</td>
+                <td scope="col">@item.IdMarca</td>
+            </tr>
+        }
+        </table>
+    </body>
+</html>

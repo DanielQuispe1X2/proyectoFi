@@ -1,0 +1,108 @@
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.staticwebassets.runtime.json
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.exe
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.deps.json
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.runtimeconfig.json
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.dll
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.pdb
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.AssemblyInfo.cs
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\scopedcss\bundle\proyectoFi.styles.css
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\scopedcss\projectbundle\proyectoFi.bundle.scp.css
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.csproj.CopyComplete
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.dll
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\refint\proyectoFi.dll
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.pdb
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.genruntimeconfig.cache
+C:\Users\user\Desktop\Universidad maiza\DBP\proyectoFi\proyectoFi\obj\Debug\net6.0\ref\proyectoFi.dll
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\appsettings.json
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.staticwebassets.runtime.json
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.exe
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.deps.json
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.runtimeconfig.json
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.dll
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.pdb
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.csproj.AssemblyReference.cache
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.AssemblyInfoInputs.cache
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.AssemblyInfo.cs
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.RazorAssemblyInfo.cache
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.RazorAssemblyInfo.cs
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\scopedcss\bundle\proyectoFi.styles.css
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\scopedcss\projectbundle\proyectoFi.bundle.scp.css
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.csproj.CopyComplete
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.dll
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\refint\proyectoFi.dll
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.pdb
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.genruntimeconfig.cache
+C:\Users\Personal\Downloads\proyectoFi\proyectoFi\obj\Debug\net6.0\ref\proyectoFi.dll
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.staticwebassets.runtime.json
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.exe
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.deps.json
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.runtimeconfig.json
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.dll
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\proyectoFi.pdb
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.AssemblyInfo.cs
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\scopedcss\bundle\proyectoFi.styles.css
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\scopedcss\projectbundle\proyectoFi.bundle.scp.css
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.csproj.CopyComplete
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.dll
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\refint\proyectoFi.dll
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.pdb
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\proyectoFi.genruntimeconfig.cache
+C:\Users\User\Desktop\poo-github\proyectoFi\proyectoFi\obj\Debug\net6.0\ref\proyectoFi.dll

@@ -1,0 +1,37 @@
+﻿
+@model IEnumerable<proyectoFi.Models.Cliente>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+    <body>
+        <a asp-action="Create">Nuevo cliente</a>
+         <h1>REGISTRO DE CLIENTES</h1>
+
+        <table class="table table-bordered">
+            <tr>
+                <td scope="col">CODIGO</td>
+                <td scope="col">NOMBRE</td>
+                <td scope="col">APELLIDO</td>
+                <td scope="col">DNI</td>
+                <td scope="col">DIRECCION</td>
+                <td scope="col">TELEFONO</td>
+
+            </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td scope="col">@item.CodCliente</td>
+                <td scope="col">@item.NomCliente</td>
+                 <td scope="col">@item.ApeCliente</td>
+                  <td scope="col">@item.DniCliente</td>
+                  <td scope="col">@item.DireCliente</td>
+                  <td scope="col">@item.telefono</td>
+                   
+            </tr>
+        }
+        </table>
+</body>
+</html>

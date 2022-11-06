@@ -1,0 +1,37 @@
+﻿@model IEnumerable<proyectoFi.Models.Producto>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<html>
+    <body>
+        <a asp-action="Create">Nuevo producto</a>
+         <h1>REGISTRO DE PRODUCTOS</h1>
+
+        <table class="table table-bordered">
+            <tr>
+                <td scope="col">CODIGO</td>
+                <td scope="col">NOMBRE</td>
+                <td scope="col">TIPO DE PRODUCTO</td>
+                <td scope="col">PRECIO</td>
+                <td scope="col">MARCA</td>
+                
+
+            </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td scope="col">@item.CodProducto</td>
+                <td scope="col">@item.NomProducto</td>
+                 <td scope="col">@item.TipoProducto</td>
+                  <td scope="col">@item.PrecioProducto</td>
+                  <td scope="col">@item.NomMarca</td>
+                  
+                   
+            </tr>
+        }
+        </table>
+</body>
+</html>
