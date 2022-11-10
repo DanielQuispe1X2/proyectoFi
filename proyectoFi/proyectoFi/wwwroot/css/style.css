@@ -40,7 +40,7 @@ html {
 body {
      color: #666666;
      font-size: 14px;
-     font-family: 'Poppins', sans-serif;
+     font-family: 'Poppins', sans-serif;h4
      line-height: 1.80857;
      font-weight: normal;
 }
@@ -524,8 +524,9 @@ ul.btn li:last-child {
      padding: 0;
      text-transform: uppercase;
      border-bottom: #48ca95 solid 1px;
-     max-width: 315px;
+     max-width: 375px;
      margin: auto;
+     margin-top:40px;
 }
 
 .d_flex {
@@ -606,7 +607,7 @@ ul.btn li:last-child {
 
 .our_products {
      background-color: #fff;
-     padding: 90px 0;
+     padding: 50px 25px;
 }
 
 .our_products .product_box {
@@ -616,6 +617,7 @@ ul.btn li:last-child {
 
 .our_products .product_box figure {
      margin: 0;
+     margin-bottom:30px;
 }
 
 .our_products .product_box h3 {
@@ -627,8 +629,12 @@ ul.btn li:last-child {
      font-weight: 500;
      margin: 0 auto;
      padding: 10px 0;
-     margin-top: 40px;
+     margin-top: 10px;
      transition: ease-in all 0.5s;
+}
+
+.our_products .product_box h4 {
+    height:85px;
 }
 
 .our_products .product_box h3:hover {
@@ -652,6 +658,59 @@ ul.btn li:last-child {
 }
 
 .our_products .read_more:hover {
+     background: #48ca95;
+     color: #000 !important;
+}
+
+/** interfaz para solo Productos **/
+.our_products_version2 {
+    background-color: #fff;
+    padding: 50px 25px 0px;
+}
+
+.our_products_version2 .product_box {
+     text-align: center;
+     margin-bottom: 30px;
+}
+
+.our_products_version2 .product_box figure {
+     margin: 0;
+     margin-bottom:20px;
+}
+
+.our_products_version2 .product_box h3 {
+     width: 200px;
+     color: #fff;
+     font-size: 20px;
+     line-height: 20px;
+     background-color: #252525;
+     font-weight: 500;
+     margin: 0 auto;
+     padding: 10px 0;
+     margin-top: 10px;
+     transition: ease-in all 0.5s;
+}
+.our_products_version2 .product_box h4 {
+    height:85px;
+}
+
+.our_products_version2 .product_box h3:hover {
+    background: #48ca95;
+    transition: ease-in all 0.5s;
+}
+
+.our_products_version2 .read_more {
+     margin: 0 auto;
+     display: block;
+     margin-top: 50px;
+     background-color: transparent;
+     border: #48ca95 solid 2px;
+     color: #48ca95 !important;
+     max-width: 232px;
+     padding: 15px 0;
+}
+
+.our_products_version2 .read_more:hover {
      background: #48ca95;
      color: #000 !important;
 }
