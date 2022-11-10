@@ -10,6 +10,7 @@ namespace proyectoFi.Models
         public string? TipoProducto { get; set; }
         public float? PrecioProducto { get; set; }
         public string? NomMarca { get; set; }
+        public int? Stock {get; set;}
 
         public virtual Marca? NomMarcaNavigation { get; set; }
     }
