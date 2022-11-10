@@ -272,6 +272,67 @@
             </div>
         </div>
     </div>
+
+    <!-- Ventana para ver los productos -->
+    <div class="row" id="vent">
+        <div class="col-md-12">
+            <div class="our_products_verVentana">
+                <div class="cerrar">
+                    <a href="javascript:cerrar()"><i class='bx bx-x-circle'></i></a>
+                </div>
+                <label>Calificaciones</label>
+                <div class="tamaño-periodo">
+                    <label>Numero de Periodo:</label>
+                </div>
+                <select class="form-periodo" id="formGroupExampleInput2" name="selectPeriodo">
+                    <option value="Uno">Primer periodo</option>
+                    <option value="Dos">Segundo periodo</option>
+                    <option value="Tres">Tercer periodo</option>
+                </select>
+                <table class="table table-bordered">
+                    <tr>
+                        <td scope="col"> </td>
+                        <td scope="col">Nota</td>
+                        <td scope="col">Situacion</td>
+                    </tr>
+                    <tr>
+                        <td scope="col">PC 01</td>
+                        <td scope="col"> </td>
+                        <td scope="col"> </td>
+                    </tr>
+                    <tr>
+                        <td scope="col">PC 02</td>
+                        <td scope="col"> </td>
+                        <td scope="col"> </td>
+                    </tr>
+                    <tr>
+                        <td scope="col">PC 03</td>
+                        <td scope="col"> </td>
+                        <td scope="col"> </td>
+                    </tr>
+                    <tr>
+                        <td scope="col">Examen Final</td>
+                        <td scope="col"> </td>
+                        <td scope="col"> </td>
+                    </tr>
+                    <tr class="promedio">
+                        <td scope="col">--Promedio--</td>
+                        <td scope="col"> </td>
+                        <td scope="col"> </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
     <!-- end products -->
+    <script>
+        function abrir() {
+            document.getElementById("vent").style.display = "block";
+        }
+        function cerrar() {
+            document.getElementById("vent").style.display = "none";
+        }
+    </script>
 </body>
 </html>
