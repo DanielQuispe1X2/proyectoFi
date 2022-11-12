@@ -56,6 +56,7 @@ a {
      transition: all .3s ease-in-out;
 }
 
+
 h1,
 h2,
 h3,
@@ -690,14 +691,32 @@ ul.btn li:last-child {
      margin-top: 10px;
      transition: ease-in all 0.5s;
 }
+.our_products_version2 .product_box a {
+     width:200px;
+     color: #fff;
+     font-size: 20px;
+     line-height: 20px;
+     background-color: #252525;
+     font-weight: 500;
+     margin: 0 auto;
+     padding: 6px 45px;
+     margin-top: 10px;
+     transition: ease-in all 0.5s;
+}
 .our_products_version2 .product_box h4 {
-    height:85px;
+    height:95px;
 }
 
 .our_products_version2 .product_box h3:hover {
     background: #48ca95;
     transition: ease-in all 0.5s;
 }
+
+.our_products_version2 .product_box a:hover {
+    background: #48ca95;
+    transition: ease-in all 0.5s;
+}
+
 
 .our_products_version2 .read_more {
      margin: 0 auto;
@@ -717,6 +736,7 @@ ul.btn li:last-child {
 
 /** Crear ventanas cada vez que se ponen productos **/
 .our_products_verVentana {
+
     background-color: #4f4aa6;
     padding: 50px 25px 0px;
 }
@@ -766,6 +786,18 @@ ul.btn li:last-child {
 .our_products_verVentana .read_more:hover {
      background: #48ca95;
      color: #000 !important;
+}
+
+.buttonDetalles {
+    background-color: #4f4aa6;
+    padding: 50px 25px 0px;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+}
+
+.ventanaExtra{
+    display:none;
 }
 
 
