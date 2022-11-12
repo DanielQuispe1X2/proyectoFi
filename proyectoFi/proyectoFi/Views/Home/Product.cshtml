@@ -1,4 +1,4 @@
-﻿@*
+@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
@@ -8,6 +8,8 @@
 <!-- body -->
 <body class="main-layout inner_posituong">
     <!-- loader  -->
+
+    <div id="ventanaPrincipal">
     <div class="loader_bg">
         <div class="loader"><img src="~/images/loading.gif" alt="#" /></div>
     </div>
@@ -275,6 +277,7 @@
             </div>
         </div>
     </div>
+    </div>
 
     <!-- Ventana para ver los productos -->
     <div class="ventanaExtra" id="vent">
@@ -336,10 +339,18 @@
     <script>
         function abrir() {
             document.getElementById("vent").style.display = "block";
+            document.getElementById("ventanaPrincipal").style.opacity=0.50;
+            document.getElementById("ventanaHeader").style.opacity=0.50;
+            document.getElementById("ventanaPrincipal").style.overflow=hidden;
+            document.getElementById("vent").style.overflow=hidden;
+            document.getElementById("ventanaHeader").style.overflow = hidden;
         }
         function cerrar() {
             document.getElementById("vent").style.display = "none";
+            document.getElementById("ventanaPrincipal").style.opacity = 1;
+            document.getElementById("ventanaHeader").style.opacity = 1;
         }
     </script>
 </body>
 </html>
+
